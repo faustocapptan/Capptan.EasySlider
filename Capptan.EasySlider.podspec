@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
 
   spec.platform = :ios, "9.1"
   spec.requires_arc = true
-  spec.source = { git: "https://github.com/faustocapptan/tgpcontrols.git", :tag => 'Bug Fix', :commit => "c99011417760d4ff1335fcbabc4795c85865d2c6" }
+  spec.source = { git: "https://github.com/faustocapptan/Capptan.EasySlider.git", :tag => 'master', :commit => "c99011417760d4ff1335fcbabc4795c85865d2c6" }
   spec.source_files = "Capptan.EasySlider/**/*.{m,h,swift}"
 
 end
